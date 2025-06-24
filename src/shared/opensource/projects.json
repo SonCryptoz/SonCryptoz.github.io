@@ -1,1 +1,78 @@
-{"data":[{"id":"R_kgDOOxw2JA","name":"realtime-chat-app","createdAt":"2025-05-28T03:15:16Z","url":"https://github.com/SonCryptoz/realtime-chat-app","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"}]},{"id":"R_kgDOMew_Dw","name":"Mobile-Shop","createdAt":"2024-08-03T11:00:39Z","url":"https://github.com/SonCryptoz/Mobile-Shop","description":"test UI UX","isFork":false,"languages":[{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"HTML","iconifyClass":"logos-html-5"}]},{"id":"R_kgDOMxr8-Q","name":"bami-sot","createdAt":"2024-09-14T15:18:47Z","url":"https://github.com/SonCryptoz/bami-sot","description":null,"isFork":false,"languages":[{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOM5bPqg","name":"bami-sot-backend","createdAt":"2024-09-30T17:06:19Z","url":"https://github.com/SonCryptoz/bami-sot-backend","description":null,"isFork":false,"languages":[{"name":"JavaScript","iconifyClass":"logos-javascript"}]},{"id":"R_kgDOOUfQnQ","name":"Linh-Kien-Nam-Anh","createdAt":"2025-04-05T14:56:19Z","url":"https://github.com/SonCryptoz/Linh-Kien-Nam-Anh","description":null,"isFork":false,"languages":[{"name":"PHP","iconifyClass":"logos-php"},{"name":"HTML","iconifyClass":"logos-html-5"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"},{"name":"Ruby","iconifyClass":"logos:ruby"}]},{"id":"R_kgDOOUfd1Q","name":"Nhom-Kinh-Nhat-Kim","createdAt":"2025-04-05T15:04:47Z","url":"https://github.com/SonCryptoz/Nhom-Kinh-Nhat-Kim","description":null,"isFork":false,"languages":[{"name":"PHP","iconifyClass":"logos-php"},{"name":"CSS","iconifyClass":"logos-css-3"},{"name":"JavaScript","iconifyClass":"logos-javascript"}]}]}
+{
+    "data": [{
+        "id": "R_kgDOOxw2JA",
+        "name": "realtime-chat-app",
+        "createdAt": "2025-05-28",
+        "url": "https://realtime-chat-app-sa7n.onrender.com/",
+        "description": "Website trò chuyện mượt mà với giao diện tối giản, hiện đại. Tin nhắn được đồng bộ theo thời gian thực, hỗ trợ hiển thị người dùng online và lưu trữ lịch sử trò chuyện an toàn.",
+        "isFork": false,
+        "languages": [
+            { "name": "ReactJS", "iconifyClass": "logos:react" },
+            { "name": "TailwindCSS", "iconifyClass": "vscode-icons:file-type-tailwind" },
+            { "name": "NodeJS", "iconifyClass": "logos:nodejs-icon" },
+            { "name": "ExpressJS", "iconifyClass": "skill-icons:expressjs-dark" },
+            { "name": "Socket.io", "iconifyClass": "logos:socket-io" },
+            { "name": "MongoDB", "iconifyClass": "vscode-icons:file-type-mongo" }
+        ]
+    }, {
+        "id": "R_kgDOMxr8-Q",
+        "name": "bami-sot",
+        "createdAt": "2024-09-14",
+        "url": "https://github.com/SonCryptoz/bami-sot",
+        "description": "Website bán hàng trực tuyến với giao diện hiện đại, thân thiện. Hỗ trợ quản lý sản phẩm, giỏ hàng và thanh toán trực tuyến. Tích hợp các công nghệ mới nhất để mang lại trải nghiệm người dùng tốt nhất.",
+        "isFork": false,
+        "languages": [
+            { "name": "ReactJS", "iconifyClass": "logos:react" },
+            { "name": "TailwindCSS", "iconifyClass": "vscode-icons:file-type-scss2" },
+            { "name": "NodeJS", "iconifyClass": "logos:nodejs-icon" },
+            { "name": "ExpressJS", "iconifyClass": "skill-icons:expressjs-dark" },
+            { "name": "MongoDB", "iconifyClass": "vscode-icons:file-type-mongo" }
+        ]
+    }, {
+        "id": "R_kgDOOUfQnQ",
+        "name": "Linh-Kien-Nam-Anh",
+        "createdAt": "2025-01-02",
+        "url": "https://linhkienmaytinh.namanhtechdigital.vn/",
+        "description": "Thiết kế và phát triển Website thương mại về linh kiện điện tử cho Công ty TNHH Công nghệ và Truyền thông số Nam Anh. Giao diện hiện đại, dễ sử dụng, tích hợp các tính năng quản lý sản phẩm và giỏ hàng.",
+        "isFork": false,
+        "languages": [{
+            "name": "HTML",
+            "iconifyClass": "logos-html-5"
+        }, {
+            "name": "CSS",
+            "iconifyClass": "logos-css-3"
+        }, {
+            "name": "JavaScript",
+            "iconifyClass": "logos-javascript"
+        }, {
+            "name": "PHP",
+            "iconifyClass": "logos-php"
+        }, {
+            "name": "MySQL",
+            "iconifyClass": "devicon:mysql"
+        }]
+    }, {
+        "id": "R_kgDOOUfd1Q",
+        "name": "Nhom-Kinh-Nhat-Kim",
+        "createdAt": "2025-02-16",
+        "url": "http://nhatkimwindow.com/",
+        "description": "Thiết kế và phát triển Website giới thiệu doanh nghiệp cho khách hàng bên Công ty CP Nhôm kính Nhất Kim. Tập trung vào việc truyền tải thông tin công ty, dịch vụ và dự án nổi bật.",
+        "isFork": false,
+        "languages": [{
+            "name": "HTML",
+            "iconifyClass": "logos-html-5"
+        }, {
+            "name": "CSS",
+            "iconifyClass": "logos-css-3"
+        }, {
+            "name": "JavaScript",
+            "iconifyClass": "logos-javascript"
+        }, {
+            "name": "PHP",
+            "iconifyClass": "logos-php"
+        }, {
+            "name": "MySQL",
+            "iconifyClass": "devicon:mysql"
+        }]
+    }]
+}

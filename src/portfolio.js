@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if don't want Splash screen.
 };
 
 //SEO Related settings
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Là một Website Developer đam mê tạo ra những sản phẩm số sáng tạo, không chỉ tối ưu về hiệu suất mà còn mang lại trải nghiệm người dùng tinh tế. Hướng đến việc phát triển các giải pháp web hiện đại, bền vững và có khả năng mở rộng.",
   resumeLink:
-    "https://drive.google.com/file/d/17EsNwllVZg2dUuUto3QL6xgckttwyo2p/view?usp=drive_link", // link cv
+    "https://drive.google.com/file/d/1wOH8_N7-Nnh4lMRa2gwB5T8H5mBTS9G7/view?usp=sharing", // link cv
   portfolio_repository: "https://github.com/SonCryptoz",
   githubProfile: "https://github.com/SonCryptoz",
 };
@@ -131,7 +131,7 @@ const skills = {
       softwareSkills: [
         {
           skillName: "NodeJS",
-          fontAwesomeClassname: "devicon-plain:nodejs",
+          fontAwesomeClassname: "logos:nodejs-icon",
           style: {
             color: "#339933",
           },
@@ -196,47 +196,7 @@ const competitiveSites = {
       style: {
         color: "#F79F1B",
       },
-      profileLink: "https://leetcode.com/layman_brother/",
-    },
-    {
-      siteName: "HackerRank",
-      iconifyClassname: "simple-icons:hackerrank",
-      style: {
-        color: "#2EC866",
-      },
-      profileLink: "https://www.hackerrank.com/layman_brother",
-    },
-    {
-      siteName: "Codechef",
-      iconifyClassname: "simple-icons:codechef",
-      style: {
-        color: "#5B4638",
-      },
-      profileLink: "https://www.codechef.com/users/ashutosh_1919",
-    },
-    {
-      siteName: "Codeforces",
-      iconifyClassname: "simple-icons:codeforces",
-      style: {
-        color: "#1F8ACB",
-      },
-      profileLink: "http://codeforces.com/profile/layman_brother",
-    },
-    {
-      siteName: "Hackerearth",
-      iconifyClassname: "simple-icons:hackerearth",
-      style: {
-        color: "#323754",
-      },
-      profileLink: "https://www.hackerearth.com/@ashutosh391",
-    },
-    {
-      siteName: "Kaggle",
-      iconifyClassname: "simple-icons:kaggle",
-      style: {
-        color: "#20BEFF",
-      },
-      profileLink: "https://www.kaggle.com/laymanbrother",
+      profileLink: "https://leetcode.com",
     },
   ],
 };
@@ -348,7 +308,7 @@ const experience = {
         {
           title: "Thực tập sinh Full-Stack Developer",
           company: "Công ty TNHH Công nghệ và Truyền thông số Nam Anh",
-          company_url: "https://linhkienmaytinh.namanhtechdigital.vn/",
+          company_url: "https://github.com/SonCryptoz/Linh-Kien-Nam-Anh",
           logo_path: "namanh_logo.png",
           duration: "Tháng 1 năm 2025",
           location: "Hải Dương, Việt Nam",
@@ -359,7 +319,7 @@ const experience = {
         {
           title: "Thực tập sinh Front-End Developer",
           company: "Công ty TNHH Công nghệ và Truyền thông số Nam Anh",
-          company_url: "https://nhatkimwindow.com/",
+          company_url: "https://github.com/SonCryptoz/Nhom-Kinh-Nhat-Kim",
           logo_path: "nhat-kim-logo.png",
           duration: "Tháng 2 năm 2025",
           location: "Hải Dương, Việt Nam",
