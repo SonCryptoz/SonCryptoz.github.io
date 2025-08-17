@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Nguyen Son Portfolio",
     type: "website",
-    url: "https://nhatkimwindow.com",
+    url: "https://soncryptoz.github.io/",
   },
 };
 
@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "Là một Website Developer đam mê tạo ra những sản phẩm số sáng tạo, không chỉ tối ưu về hiệu suất mà còn mang lại trải nghiệm người dùng tinh tế. Hướng đến việc phát triển các giải pháp web hiện đại, bền vững và có khả năng mở rộng.",
   resumeLink:
-    "https://drive.google.com/file/d/1wOH8_N7-Nnh4lMRa2gwB5T8H5mBTS9G7/view?usp=sharing", // link cv
+    "https://drive.google.com/file/d/1M8qGcaDORU5-jlnstdMlBiD4F_wveAcl/view?usp=sharing", // link cv
   portfolio_repository: "https://github.com/SonCryptoz",
   githubProfile: "https://github.com/SonCryptoz",
 };
@@ -400,11 +400,11 @@ const contactPageData = {
   },
   addressSection: {
     title: "Địa chỉ",
-    subtitle: "An Ninh, Quang Trung, Hải Dương, Việt Nam",
-    locality: "Hai Duong, Viet Nam",
+    subtitle: "Phường Hải Dương, Hải Phòng, Việt Nam",
+    locality: "Hai Phong, Viet Nam",
     country: "VIE",
-    region: "Hai Duong",
-    postalCode: "170000",
+    region: "Hai Phong",
+    postalCode: "01234",
     streetAddress: "An Ninh",
     avatar_image_path: "address_image.svg",
     location_map_link: "https://maps.app.goo.gl/gmyiy95xivvr7kY27",
